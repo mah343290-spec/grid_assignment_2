@@ -48,3 +48,31 @@
 .child_9 {
     grid-column: 7/10;
 }
+
+.child_10 {
+    grid-column: 10/13;
+}
+
+.child_11 {
+    grid-column: 1/3;
+}
+
+.child_12 {
+    grid-column: 3/5;
+}
+
+.child_13 {
+    grid-column: 5/7;
+}
+
+.child_14 {
+    grid-column: 7/9;
+}
+
+.child_15 {
+    grid-column: 9/11;
+}
+
+.child_16 {
+    grid-column: 11/13;
+}
