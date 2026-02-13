@@ -11,6 +11,9 @@
     background-color: #FFD700;
     color: white;
     text-align: center;
+    align-content: center;
+    font-weight: bolder;
+    font-size: xx-large;
 }
 
 .child_1 {
